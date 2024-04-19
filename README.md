@@ -1,4 +1,4 @@
-# the_logic_behind_this_work
+
 code to find out some insights in spotify streaming data (work in progress)
 
 
