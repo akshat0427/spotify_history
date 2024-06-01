@@ -1,5 +1,5 @@
 
-*finding out some insights from spotify streaming data 
+*finding out some insights from past spotify streams 
 
 
     ## follow this blog, to get your spotify history ## 
